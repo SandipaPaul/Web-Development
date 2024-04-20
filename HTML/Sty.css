@@ -1,0 +1,47 @@
+* {
+    /* background-color: #b3f2ea; */
+  }
+  #navbar {
+    height: 90px;
+    background-color: #0f1111;
+    margin: 5px 140px 5px 140px;
+  }
+  h1 {
+    text-align: center;
+    font-style: normal;
+    padding-top: 50px;
+    color: black;
+    margin-bottom: 50px;
+  }
+  a {
+    margin-right: 20px;
+    font-size: 20px;
+    margin-left: 20px;
+    color: white;
+    float: left;
+    margin: 30px 10px 15px 10px;
+    font-weight: 800;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  }
+  button {
+    background-color: #58f5b4;
+    height: 50px;
+    width: 80px;
+    font-size: 15px;
+    margin: 20px 15px 10px 0;
+    border-radius: 5px;
+  }
+  input {
+    height: 45px;
+    width: 200px;
+    margin: 19px 0 10px 15px;
+    border-radius: 5px;
+  }
+  ::placeholder {
+    padding-left: 10px;
+    color: #8e8b94;
+    font-size: 15px;
+  }
+  .pos {
+    float: right;
+  }

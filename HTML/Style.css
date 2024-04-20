@@ -1,0 +1,51 @@
+button {
+  background-color: #ed374f;
+}
+body {
+  background-color: #eff547;
+  text-align: center;
+  padding-left: 100px;
+}
+radio {
+  font-family: arial;
+}
+/* select {
+      background-color: plum;
+    } */
+h4 {
+  font-size: 17px;
+  font-family: arial;
+}
+h1 {
+  text-decoration: underline;
+}
+label {
+  font-weight: 700;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+button {
+  height: 30px;
+  width: 100px;
+}
+.des {
+  height: 30px;
+  width: 100px;
+  /* border-color: black;
+  border-style: solid;
+  border-width: 5px; */
+}
+.lab {
+  margin-bottom: 15px;
+  max-width: auto;
+  width: 600px;
+}
+.main {
+  text-align: center;
+  width: 600px;
+  border-width: 10px;
+  border-style: solid;
+  border-color: black;
+  padding: 20px;
+  margin-left: 400px;
+}

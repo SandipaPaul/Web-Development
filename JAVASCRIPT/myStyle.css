@@ -1,0 +1,12 @@
+.heading-class{
+    color: darkblue;
+    background-color: yellow;
+    text-align: center;
+}
+body{
+    background-color: plum;
+}
+button{
+    background-color: red;
+    color: white;
+}
